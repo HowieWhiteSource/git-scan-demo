@@ -1,5 +1,5 @@
 /*
- * gaim - Blogger (xml-rpc) Protocol Plugin
+ * gaim2 - Blogger (xml-rpc) Protocol Plugin
  *
  * Copyright (C) 2003, Herman Bloggs <hermanator12002@yahoo.com>
  * GPL Software Supported by www.Madster.com
@@ -19,7 +19,7 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  */
-#ifndef _STACK_H_
+#ifndef _STACK_H_2
 #define _STACK_H_
 
 typedef struct _stack_item {
